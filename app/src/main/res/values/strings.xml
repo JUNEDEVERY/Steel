@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="btnNameUser">Войти как пользователь</string>
+    <string name="btnNameAdmin">Войти как администратор</string>
+    <string name="btnSbros">Сбросить фильтрацию</string>
+    <string-array name="spinner">
+        <item>По умолчанию</item>
+        <item>По возрастанию</item>
+        <item>По убыванию</item>
+    </string-array>
+</resources>
